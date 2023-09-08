@@ -1,6 +1,6 @@
 # Horse-Race-Predictor
 Predicts the order of a horserace, given input data. 
-Tne data tables and model objects have been omitted as they belong to https://www.betturtle.com/. 
+The data tables and model objects have been omitted as they belong to https://www.betturtle.com/. 
 
 Repo draws on book Hands-On Gradient Boosting with XGBoost and scikit-learn and some code shared on kaggle. 
 
